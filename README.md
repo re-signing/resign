@@ -12,7 +12,8 @@ IOS苹果应用IPA重签名软件,可以在windows和macos系统上运行,无需
 
 # 件运行效果图：
 
-![image](https://user-images.githubusercontent.com/118920398/208887799-f881d044-513a-416f-9d77-c6ddc8d409db.png)
+![67874553fff](https://user-images.githubusercontent.com/118920398/208939397-4ec32417-28d0-48cb-bec3-ae44b7975050.png)
 
-#IPA Resign Tool 下载
+# IPA Resign Tool 网址：
+https://re-signing.github.io/
 
