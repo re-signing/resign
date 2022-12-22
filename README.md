@@ -10,6 +10,11 @@ IOS苹果应用IPA重签名软件,可以在windows和macos系统上运行,无需
 # IPA Resign Tool 操作流程：
 打开软件，选择需要签名的IPA文件,以及证书,描述文件，填入证书密码，如果需要修改app名字和BundleID可以在软件上进行修改，然后执行sign，完成签名。
 
+# IPA Resign Tool 网址：
+<h1>
+https://re-signing.github.io/
+
+
 # 件运行效果图：
 
 ![67874553fff](https://user-images.githubusercontent.com/118920398/208939397-4ec32417-28d0-48cb-bec3-ae44b7975050.png)
