@@ -15,7 +15,7 @@ IOS苹果应用IPA重签名软件,可以在windows和macos系统上运行,无需
 https://re-signing.github.io/
 
 
-# 件运行效果图：
+# 软件运行效果图：
 
 ![67874553fff](https://user-images.githubusercontent.com/118920398/208939397-4ec32417-28d0-48cb-bec3-ae44b7975050.png)
 
